@@ -11,7 +11,7 @@ I am a student pursuing my BTech degree in CSE from Jaypee University of informa
 *   ✉️  You can contact me at [vanshgulati16@gmail.com](mailto:vanshgulati16@gmail.com)
 *   🧠  I'm learning NodeJs
 *   🤝  I'm open to collaborating on Frontend projects
-*   ⚡  I'm secretly spiderman🕸️### Skills 
+*   ⚡  I'm secretly spiderman🕸️ Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
@@ -31,17 +31,16 @@ I am a student pursuing my BTech degree in CSE from Jaypee University of informa
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
 </p>
 
-### Socials
+<!-- Social -->
                   
-<p align="left">
-                          
+<p align="left">                     
 <a href="https://www.behance.com/vanshgulati2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance" width="32" height="32" /><a>
                           
 <a href="https://www.github.com/vanshgulati16 " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github" width="32" height="32" /></a>
                           
 <a href="https://www.twitter.com/Kramjam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter" width="32" height="32" /></a></p>
 
-### Badges
+<!-- Badges -->
 
 <a href="https://github.com/vanshgulati16" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgulalangs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
                 
