@@ -30,7 +30,8 @@ I am a student pursuing my BTech degree in CSE from Jaypee University of informa
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
 </p>
-  ### Socials
+
+### Socials
                   
 <p align="left">
                           
@@ -38,5 +39,9 @@ I am a student pursuing my BTech degree in CSE from Jaypee University of informa
                           
 <a href="https://www.github.com/vanshgulati16 " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github" width="32" height="32" /></a>
                           
-<a href="https://www.twitter.com/Kramjam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter" width="32" height="32" /></a></p>### Badges<a href="https://github.com/vanshgulati16" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgulalangs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
- </p>                   
+<a href="https://www.twitter.com/Kramjam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter" width="32" height="32" /></a></p>
+
+### Badges
+
+<a href="https://github.com/vanshgulati16" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgulalangs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+                
