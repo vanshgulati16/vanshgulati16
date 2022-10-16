@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I am a student pursuing my BTech degree in CSE from Jaypee University of information technology. I am a flutter and tailwind developer, exploring the side of backend.
+I am a student pursuing my BTech degree in CSE from Jaypee University of information technology. I am a Frontend developer, exploring the side of backend.
 
 *   🌍  I'm based in New Delhi
 *   🖥️  See my portfolio at [Personal website](http://vanshgulati16.github.io/personal-website/)
