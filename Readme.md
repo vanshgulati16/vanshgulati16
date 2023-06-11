@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 Currently persuing BTech degree from<br>Jaypee University of information technology.<br>⌨️ Front-End developer confused between frameworks,<br>Learning ReactJs. <br>🎮 Like to watch humour's tech YouTube.<br>
+🏫 Currently persuing BTech degree from<br>Jaypee University of information technology.<br>⌨️ Front-End developer confused between frameworks,<br>Devops enthusiast. <br>🎮 Like to watch humour's tech YouTube.<br>
 
 
 ## 🌐 Socials:
