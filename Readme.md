@@ -1,21 +1,3 @@
-<style>
-@keyframes glitch {
-  0% { transform: none; }
-  20% { transform: translate(-2px, 2px); }
-  40% { transform: translate(2px, -2px); }
-  60% { transform: translate(-2px, 2px); }
-  80% { transform: translate(2px, -2px); }
-  100% { transform: none; }
-}
-
-.glitch-text {
-  display: inline-block;
-  font-size: 24px;
-  font-family: 'Courier New', monospace;
-  color: #00ff00; /* Choose your text color */
-  animation: glitch 1s infinite;
-}
-</style>
 <p align="center">
 <p class="glitch-text">Vansh Gulati</p>
 </p>
