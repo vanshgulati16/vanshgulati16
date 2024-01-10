@@ -1,21 +1,64 @@
-# 💫 About Me:
-🏫 Currently persuing BTech degree from<br>Jaypee University of information technology.<br>⌨️ Learning about Devops. <br>🎮 Like to watch humour's tech YouTube.<br>
+<p align="center">
+<a href="https://github.com/milinddhamu/"><img align="center" src="https://raw.githubusercontent.com/vanshgulati/vanshgulati/main/title-gif.gif"/></a>
+</p>
+<!-- <p align="center"> <span> <img src="https://komarev.com/ghpvc/?username=milinddhamu&label=Views&color=252525&style=plastic" alt="milinddhamu" /> </span> 
+<a href="https://milinddhamu.com"><img src="https://img.shields.io/badge/Peronal_Website-853aff.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAES0lEQVRoQ+1aW0gVWxj+9zkq6pugpNgxEwlBPXgB8U0IRbpoiNFTougpSioQiXzxReSYEEIFdsEb1lOEmnTBW+GTiEcUTUQRCzUj8VG8V+f7pj07L3v2nglm9hgu+NizZ/9r/d+3/rXWrPnXdshvUhy/iQ45FGK3SOqNSBCIXwTygL+BI4CfSWK20e4XYAxoB54A69586RFyFo3UA395a8yk3+fQ7lXgtaf2vQm5hsp3gT9MIqm32a8wvOHsULd1PAlhJF7YQIRKnGJygDfulGgJCYTxFBClt8sssluAnxPA2l5/WkIuw/CRReSMurmECg16hXBinTLqwSL7V/DDYb+raEWEIYy0iJhRN/PuhryWkE0Y+xv1YJH9FvwE6I3Id4tI/aqbfQHQioghIf39/ZKYmCidnZ1SVFSki1xLS4vk5ubK+Pi4ZGRk6Kqzw8gcISMjI5KUlCRbW1sSHR0ti4uLHomFh4fL3Nyc+Pv7y+joqCQnJ9tLCNlUVlZKdXW1R2K0qaqqUmxsKWRtbU2Wl5clJiZGtre599tf/Pz8ZHZ2VsLCwiQwMNCeQurr66W0tFTy8vKko6PDrRD+1tbWJqqtLSOSkJAgY2Nj0tvbK9nZ2W6FdHd3S2ZmpjIvKMKWQoKCgqS9vV0RERcXJ9PT07vExMbGytTUlHR1dUl+fr6srq7aV0hWVpayDNfV1Ul5efkuIbxXVlYmOTk50tfXZ28hm5ubMjMzIyEhIRIZGamQZWG0FhYWZGVlRVkMAgIC7C1kfX1dKioqpKamRoqLi6W5uVkRwuvGxkblt9raWkWYrYcWhYSGhsr8/LxMTk5KSkqKImRoaEh5+kdFRcnS0tLBEELira2tUlBQIGlpaeJwOGRwcFC5V1hY6Bpqto8Imaanp8vAwIAytCiEezDeoyB1zhwIISQ7PDws8fHxCvGJiQlJTU11rWIHYo6obEtKSqSh4cdbKa+bmprsLUTdxkdERMjGxoaLbHBwsPT09Cjf+XxRl2J+5z6Lu2RbbeNdzK27MOd9xDr+Lk+HQnzQ6R5dHkbkwEeE2RRvGXurRO7kYnho/QOWjwFfHyt8Awfmo9Wcr24haqaR2cZMgAc9x63q+j1+PuA7D3reAuRlKNPI/OpRgMcKvA4GzgMXAG6emBc2K6VKop+A98Az4DnAY4RjwEcnn33HHVrjnxnv0wD33K0+isRet0W4wbe0lwAPfHYVLSE8g+Dc+A9IAwylUE0Qzjk6BPAtjfO2Ua+QnSdWN1HpjgnkjDR5C8a3nUMrDp8/d6bOVjwtrRxanQBtKpxirI4MI8GO/Nc5Ks7gs8tdD3h7RpSi0j3gT2AYuA+8Az4DnJRmFC4iEcBJ4DrA4cSDUJ4wP9Ry6E0I6/EI7gHAVcMX5SOcXtGKhEpIjxDacs7wnw/ngCSA/3wwc/nlPx9GASaQnwL75sTeHtUrxBeRMOTzUIih7rLA+H8awJxCd5vUsgAAAABJRU5ErkJggg==&labelColor=white&style=plastic" alt="milinddhamu" /></a> 
+<a href="mailto:milinddhamu6@gmail.com"><img src="https://img.shields.io/badge/-Mail_me-3399FF.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIyIDguNjA4VjE2Ljc1QzIyIDE4LjQ4MyAyMC42NDM1IDE5Ljg5OTIgMTguOTM0NCAxOS45OTQ5TDE4Ljc1IDIwSDUuMjVDMy41MTY5NyAyMCAyLjEwMDc1IDE4LjY0MzUgMi4wMDUxNCAxNi45MzQ0TDIgMTYuNzVWOC42MDhMMTEuNjUyIDEzLjY2NDRDMTEuODcgMTMuNzc4NSAxMi4xMyAxMy43Nzg1IDEyLjM0OCAxMy42NjQ0TDIyIDguNjA4Wk01LjI1IDRIMTguNzVDMjAuNDM0NyA0IDIxLjgyMDEgNS4yODE5MSAyMS45ODM4IDYuOTIzNTVMMTIgMTIuMTUzM0wyLjAxNjE5IDYuOTIzNTVDMi4xNzM4NiA1LjM0MjcxIDMuNDY0MzIgNC4wOTU0NSA1LjA2NDA5IDQuMDA1MjNMNS4yNSA0SDE4Ljc1SDUuMjVaIiBmaWxsPSIjMjEyMTIxIi8+PC9zdmc+&labelColor=white&style=plastic" alt="milinddhamu" /></a> 
+</p> -->
 
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Vanshgulati16) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/unsanskari_bachha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshgulati16) 
+<p align="center">
+<span>vanshgulati16@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖</span>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vanshgulati16&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vanshgulati16&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshgulati16&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+<img align="center" width="100%" src="https://raw.githubusercontent.com/vanshgulati/vanshgulati/main/animated-line-train-github.gif">
+</p>
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<p align="center">
+<img align="center" height="29px" src="https://raw.githubusercontent.com/vanshgulati/vanshgulati/main/Connect.png" alt="Connect with me">
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Vanshgulati16&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center" >
+<a href="https://twitter.com/kramjam" target="blank" ><img width="32" height="32" src="https://img.icons8.com/arcade/64/twitter.png" alt="twitter"/></a>
+<a href="https://www.linkedin.com/in/vanshgulati16" target="blank" ><img width="32" height="32" src="https://img.icons8.com/arcade/64/000000/linkedin.png" alt="linkedin"/></a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<img align="center" height="50px" src="https://raw.githubusercontent.com/vanshgulati/vanshgulati/main/ToolsAndTech.png" alt="Tools & Technologies">
+</p>
+
+<p align="center">
+<span><img src="https://skillicons.dev/icons?i=js,python,html,css,react,next,tailwind,materialui,styledcomponents,vercel,git,vscode,figma,ps,ae&perline=9" /></span>
+</p>
+
+<p align="center">
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=vanshgulati16&show_icons=true&theme=jolly&rank_icon=github&hide_title=true&ring_color=3772ff&border_color=00000000&border_radius=12" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=vanshgulati16&show_icons=true&rank_icon=github&hide_title=true&ring_color=3772ff&theme=catppuccin_latte&border_color=00000000&border_radius=12" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshgulati16&show_icons=true" width="44%" />
+</picture>
+<picture>
+  <source srcset="https://streak-stats.demolab.com/?user=vanshgulati16&theme=jolly&border=00000000&border_radius=12" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://streak-stats.demolab.com/?user=vanshgulati16&theme=catppuccin_latte&border=00000000&border_radius=12" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img src="https://streak-stats.demolab.com/?user=vanshgulati16" width="39%" />
+</picture>
+</p>
+
+
+<!-- <p align="center">
+<a href="https://github.com/milinddhamu/coc-nextjs/" target="blank" ><img src="https://github-readme-stats.vercel.app/api/pin?username=milinddhamu&repo=coc-nextjs&border_radius=12&theme=dracula&border_color=00000000" alt="coc repo"/></a>
+<a href="https://github.com/milinddhamu/mini-games" target="blank" ><img src="https://github-readme-stats.vercel.app/api/pin?username=milinddhamu&repo=mini-games&border_radius=12&theme=dracula&border_color=00000000" alt="mini games"/></a>
+</p>
+<a href="/"><img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0099.gif" width="100%" loop="-1"/></a> -->
+
+
+
+
+
+
+
+
+
+
+
